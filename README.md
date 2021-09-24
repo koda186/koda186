@@ -8,7 +8,9 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=koda186.koda186??style=for-the-badge&logo=appveyor"></a>
 </p>
 
-- 📫 How to reach me:
+<p align='center'>
+📫 How to reach me:
+</p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/robert-allen-jr-11183382"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:reallenjr1@gmail.com?subject=Hello Robert"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,7 +29,7 @@
 
 <h4>🌱  I'm currently learning more about the below and expanding my knowledge with other technologies to help me become more well-rounded and a full-stack engineer...</h4>
 <p >
-  <img src="https://img.shields.io/badge/jenkins-007ACC?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/mongodb%20-%23db7093.svg?&style=for-the-badge&logo=mongo-db&logoColor=white" />&nbsp;&nbsp;&nbsp;<img 
+  <img src="https://img.shields.io/badge/jenkins-007ACC?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/mongodb%20-%23db7093.svg?&style=for-the-badge&logo=mongo-db&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/spring%20-%23c21325.svg?&style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
