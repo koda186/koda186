@@ -25,7 +25,7 @@
 
 <hr>
 
-<h4>🌱  I'm currently learning more about and also expanding my knowledge with other technologies...</h4>
+<h4>🌱  I'm currently learning more about the below and expanding my knowledge with other technologies to help me become more well-rounded and a full-stack engineer...</h4>
 <p >
   <img src="https://img.shields.io/badge/jenkins-007ACC?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/mongodb%20-%23db7093.svg?&style=for-the-badge&logo=mongo-db&logoColor=white" />&nbsp;&nbsp;&nbsp;<img 
 </p>
