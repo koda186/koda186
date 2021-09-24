@@ -14,6 +14,7 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/robert-allen-jr-11183382"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:reallenjr1@gmail.com?subject=Hello Robert"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://roberteallen.com"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=portfolio&logoColor=61DAFB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
