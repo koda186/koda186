@@ -41,9 +41,9 @@
   <h5 align="right">To relax, I enjoy getting outdoors with my wife and doggos.</h5>
 </p>
 
-<p align="left">
+
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=koda186&theme=algolia&show_icons=true)
-</p>
+
 
 <h4>💬 Ask me anything...</h4>
 
