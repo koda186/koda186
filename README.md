@@ -45,8 +45,6 @@
 <h4>💬 Ask me anything...</h4>
 
 
-[![Roberts's GitHub stats](https://github-readme-stats.vercel.app/api?username=koda186)](https://github.com/koda186/github-readme-stats)
-
 
              
 
